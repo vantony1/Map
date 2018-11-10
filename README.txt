@@ -1,15 +1,5 @@
-/*Name: Victor Nikhil Antony
-CSC 172
-NetID: vantony
-ClassID: 134
-Assignment # HW10
-TR 4:50-6:05
-TA Name: Sifan Ye
-I did not collaboarated with Matthew Sundsberg on this project
- */
-NOTE: Distance is shown in kilometers because most of the world uses kms and it make more sense! 
 
-Team Members: Victor Antony (Graph Representation & other Algorithms), Matthew Sundsberg (UI and FileReading)
+NOTE: Distance is shown in kilometers because most of the world uses kms and it make more sense! 
 
 List of files included in the submission: Edge.java, Graph.java, Vertex.java, MapBoundsAndGraph.java MapDisplay.java Navigator.java StreetMapper.java 
 
