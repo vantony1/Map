@@ -1,14 +1,3 @@
-/*Name: Victor Nikhil Antony
-CSC 172
-NetID: vantony
-ClassID: 134
-Assignment # HW10
-TR 4:50-6:05
-TA Name: Sifan Ye
-I did not collaboarated with Matthew Sundsberg on this project
-
-Class Written By: Victor Antony */
-
 import java.util.HashMap;
 
 
